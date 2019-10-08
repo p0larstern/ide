@@ -52,7 +52,7 @@ This responsive online code editor and compiler have the following features.
 |------|--------|
 |**Run**|Use the button to compile the code.|
 |**Save**| Manually save all the content in localStorage.|
-|**Reset**|To clear all the content, localStorage and resetting settings.
+|**Reset**|To clear all the content in localStorage and reset settings.
 |**Reset Defaults**| Reset all the editor settings.|
 |**UPLOAD**|Use to button and choose the file from local system to upload.|
 |**DOWNLOAD**|Use the button to download the code in the editor into a file.|
